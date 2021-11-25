@@ -41,3 +41,4 @@ dependencies:
   - xarray
   - xeus-python
   - xgboost
+  - stlearn
